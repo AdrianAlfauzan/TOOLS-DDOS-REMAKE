@@ -1534,7 +1534,7 @@ def credit():
         + Fore.LIGHTWHITE_EX
         + "Developer "
         + Fore.RED
-        + ": \x1b[38;2;0;255;189mHyuk\n"
+        + ": \x1b[38;2;0;255;189mAdrianAlfauzan\n"
     )
 
     stdout.write(
@@ -1542,7 +1542,7 @@ def credit():
         + Fore.LIGHTWHITE_EX
         + "UI Design "
         + Fore.RED
-        + ": \x1b[38;2;0;255;189mYone不\n"
+        + ": \x1b[38;2;0;255;189mAdrianAlfauzan\n"
     )
 
     stdout.write(
@@ -1550,7 +1550,7 @@ def credit():
         + Fore.LIGHTWHITE_EX
         + "Methods/Tools "
         + Fore.RED
-        + ": \x1b[38;2;0;255;189mSkyWtkh\n"
+        + ": \x1b[38;2;0;255;189mAdrianAlfauzan\n"
     )
 
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╝\n")
