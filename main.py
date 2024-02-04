@@ -1481,7 +1481,7 @@ def help():
         + Fore.LIGHTCYAN_EX
         + "|"
         + Fore.LIGHTWHITE_EX
-        + " Thanks for using ADRIAN.                "
+        + " Thanks for using My Tools.                "
         + Fore.LIGHTCYAN_EX
         + "║\n"
     )
