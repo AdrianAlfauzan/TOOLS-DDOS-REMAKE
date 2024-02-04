@@ -1,6 +1,6 @@
 You must use Python higher
 
-git clone https://github.com/MrxKzy
+git clone https://github.com/AdrianAlfauzan/TOOLS-DDOS-REMAKE
 
 Install Python3 modules
  - pip3 install -r requirements.txt  or  pip install -r requirements.txt
